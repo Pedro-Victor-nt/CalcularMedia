@@ -21,10 +21,10 @@ Este trabalho tem como metas principais:
 
 ## Funcionalidades
 
-✅ Campos de entrada para notas A1, A2 e A3.
-✅ Botão para calcular a média.
-✅ Exibição do resultado na tela.
-✅ Interface simples e intuitiva.
+ - ✅ Campos de entrada para notas A1, A2 e A3.
+ - ✅ Botão para calcular a média.
+ - ✅ Exibição do resultado na tela.
+ - ✅ Interface simples e intuitiva.
 
 ## 📸 Capturas de Tela
 
